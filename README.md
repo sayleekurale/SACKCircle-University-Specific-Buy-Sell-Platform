@@ -18,13 +18,10 @@ SACKCircle is a full-fledged desktop application developed for university studen
 - Add to wishlist
 
 ### 💬 Chat System
-- Real-time messaging between buyers and sellers  
-- Enhances communication without external tools
 
 ### 🛡️ Admin Dashboard
 - View and manage all users  
 - Monitor and manage listed products  
-- Handle user reports
 
 ### 🎨 UI/UX Design
 - Built with **Java Swing** for interactive UI  
@@ -102,9 +99,9 @@ Update your database connection details in:
 ---
 
 ## 💡 Future Enhancements
-- File/image upload for product listings  
 - Push notifications  
-- Admin analytics dashboard  
+- AI integration
+- Real Time Chat 
 - Mobile version using JavaFX or Android
 
 ---
